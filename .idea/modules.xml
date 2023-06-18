@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapter/adapter.iml" filepath="$PROJECT_DIR$/adapter/adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cor-iterator-patterns/cor-iterator-patterns.iml" filepath="$PROJECT_DIR$/cor-iterator-patterns/cor-iterator-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator-proxy/decorator-proxy.iml" filepath="$PROJECT_DIR$/decorator-proxy/decorator-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory-and-abstract/factory-and-abstract.iml" filepath="$PROJECT_DIR$/factory-and-abstract/factory-and-abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer/observer.iml" filepath="$PROJECT_DIR$/observer/observer.iml" />
+    </modules>
+  </component>
+</project>
